@@ -1,0 +1,10 @@
+diff --git a/foo b/foo
+index 30d74d2..39bd688 100644
+--- a/foo
++++ b/foo
+@@ -1 +1,2 @@
+-test
+\ No newline at end of file
++test
++test2
+\ No newline at end of file
